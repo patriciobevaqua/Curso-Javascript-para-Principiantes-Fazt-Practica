@@ -7,3 +7,14 @@ https://www.youtube.com/c/FaztTech
 ---------------------- 
 Otros cursos:
 
+Curso de JAVASCRIPT desde CERO para Principiantes [COMPLETO]
+https://youtu.be/HjLiV8XJZ38
+
+Learn basic JavaScript
+https://scrimba.com/learn/basicjavascript
+
+Learn JavaScript - Codecademy
+https://www.codecademy.com/learn/introduction-to-javascript
+
+The Modern JavaScript Tutorial
+https://javascript.info/
